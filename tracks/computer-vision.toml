@@ -1,0 +1,5 @@
+# Synthetic smoke-test input; replace with your study's data and analysis.
+starter = "computer-vision"
+method = "summary"
+input = "data/examples/measurements.csv"
+replicates = "error"

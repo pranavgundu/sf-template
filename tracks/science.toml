@@ -1,0 +1,5 @@
+# Edit input to use your own data. Example measurements are synthetic.
+starter = "science"
+method = "summary"
+input = "data/examples/measurements.csv"
+replicates = "error"

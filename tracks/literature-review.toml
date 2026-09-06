@@ -1,0 +1,5 @@
+# Edit input to use your own data. Example measurements are synthetic.
+starter = "literature-review"
+method = "source-inventory"
+input = "references/sources.csv"
+replicates = "error"

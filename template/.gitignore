@@ -1,0 +1,13 @@
+__pycache__/
+.venv/
+.DS_Store
+.env
+private/
+data/raw/*
+# Keep the empty starter schema available when distributing this template.
+# Remove this exception before entering nonpublic measurements in a manual copy.
+!data/raw/measurements.csv
+data/processed/*
+results/*
+!.gitkeep
+# Share permitted datasets deliberately after reviewing privacy and licenses.

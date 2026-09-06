@@ -1,0 +1,5 @@
+unit_id,group,value,unit
+synthetic-01,baseline,10,g
+synthetic-02,baseline,12,g
+synthetic-03,variant,14,g
+synthetic-04,variant,16,g
