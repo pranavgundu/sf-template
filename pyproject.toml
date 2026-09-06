@@ -6,7 +6,7 @@ build-backend = "hatchling.build"
 name = "sf-template"
 version = "1.0.0"
 description = "Science Fair Template: configurable starters for science fairs and independent research."
-readme = {file = "README.txt", content-type = "text/plain"}
+readme = "README.md"
 requires-python = ">=3.11"
 license = "MIT"
 dependencies = []
@@ -26,4 +26,4 @@ packages = ["sf_template"]
 "tracks" = "sf_template/assets/tracks"
 
 [tool.hatch.build.targets.sdist]
-include = ["sf_template", "template", "tracks", "tests", "examples", "README.txt", "LICENSE", "pyproject.toml"]
+include = ["sf_template", "template", "tracks", "tests", "examples", "README.md", "LICENSE", "pyproject.toml"]
